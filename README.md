@@ -12,6 +12,6 @@ Node.js CLI tool that helps analyze, organize and clean directories.
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/file-organizer
+git clone https://github.com/Nazar/file-organizer
 cd file-organizer
 npm install
